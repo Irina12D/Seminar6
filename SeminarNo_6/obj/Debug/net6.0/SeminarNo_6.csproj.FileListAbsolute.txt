@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\SeminarNo_6\bin\Debug\net6.0\SeminarNo_6.exe
+C:\Users\User\Desktop\SeminarNo_6\bin\Debug\net6.0\SeminarNo_6.deps.json
+C:\Users\User\Desktop\SeminarNo_6\bin\Debug\net6.0\SeminarNo_6.runtimeconfig.json
+C:\Users\User\Desktop\SeminarNo_6\bin\Debug\net6.0\SeminarNo_6.dll
+C:\Users\User\Desktop\SeminarNo_6\bin\Debug\net6.0\SeminarNo_6.pdb
+C:\Users\User\Desktop\SeminarNo_6\obj\Debug\net6.0\SeminarNo_6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SeminarNo_6\obj\Debug\net6.0\SeminarNo_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SeminarNo_6\obj\Debug\net6.0\SeminarNo_6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SeminarNo_6\obj\Debug\net6.0\SeminarNo_6.AssemblyInfo.cs
+C:\Users\User\Desktop\SeminarNo_6\obj\Debug\net6.0\SeminarNo_6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SeminarNo_6\obj\Debug\net6.0\SeminarNo_6.dll
+C:\Users\User\Desktop\SeminarNo_6\obj\Debug\net6.0\refint\SeminarNo_6.dll
+C:\Users\User\Desktop\SeminarNo_6\obj\Debug\net6.0\SeminarNo_6.pdb
+C:\Users\User\Desktop\SeminarNo_6\obj\Debug\net6.0\SeminarNo_6.genruntimeconfig.cache
+C:\Users\User\Desktop\SeminarNo_6\obj\Debug\net6.0\ref\SeminarNo_6.dll
